@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "xinian"
   avatar           : "profile-pencil-circle.png"
-  bio              : "Applied Mathematician and Neuroscientist, Professor at Beijing Normal University"
+  bio              : "Applied Mathematician and Brain Scientist, Professor at Beijing Normal University"
   location         : "Beijing, China"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Zuo+XN&sort=date"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
