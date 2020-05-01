@@ -10,5 +10,7 @@ location: "Beijing, China"
 
 This is a description of a teaching experience on Developmental Population Neuroscience.
 
-To be added
+An overview on Developmental Population Neuroscience
 ======
+
+<img src='/images/DPN-500x300.png' align="middle"><br/>
