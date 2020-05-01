@@ -11,31 +11,29 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematical Education, Capital Normal University, 1999
+* M.S. in Probability Theory & Statistics, Capital Normal University, 2002
+* Ph.D in Applied Mathematics, Beijing Normal University, 2005
 
-Work experience
+Postdoc Trainings
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2006.04 - 2008.10: State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University; Supervisor: Yu-Feng Zang
+* 2006.04 - 2008.10: National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences (CAS); Supervisor: Yu-Feng Zang/Tianzi Jiang (joint)
+* 2008.10 - 2010.11: Institute for Pediatric Neuroscience, Child Study Center, New York University, Supervisor: Michael P. Milham
+* 2008.10 - 2010.11: Langone Medical Center, School of Medicine, New York University, Supervisor: Michael P. Milham
+
+Professional Appointments
+======
+* 2020.04 - now: Professor, Principal Investigator
+  * Beijing Normal University
+  * State Key Laboratory of Cognitive Neuroscience and Learning
+  * IDG/McGovern Institute for Brain Research - BNU
 
 * Fall 2015: Research Assistant
   * Github University
   * Duties included: Merging pull requests
   * Supervisor: Professor Hub
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications %}
