@@ -14,4 +14,4 @@ Connectomics has enhanced our understanding of neurocognitive development and de
 
 [Download paper here](http://zuoxinian.github.io/files/TiCS2017.pdf)
 
-Recommended citation: Xi-Nian, Zuo; Ye, He; Richard F., Betzel; Stan, Colcombe; Olaf, Sporns; Michael P., Milham. (2015). "Human connectomics across the life span." <i>Trends in Cognitive Sciences</i>. 21(1):32-45.
+Recommended citation: Xi-Nian, Zuo; Ye, He; Richard F., Betzel; Stan, Colcombe; Olaf, Sporns; Michael P., Milham. (2015). "Human connectomics across the life span." [<i>Trends in Cognitive Sciences</i>](https://www.sciencedirect.com/journal/trends-in-cognitive-sciences). 21(1):32-45.
