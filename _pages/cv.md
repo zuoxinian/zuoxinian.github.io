@@ -26,8 +26,8 @@ Professional Appointments
 ======
 * 2020.04 - now: Professor, Principal Investigator
   * Beijing Normal University
-  * State Key Laboratory of Cognitive Neuroscience and Learning
-  * IDG/McGovern Institute for Brain Research - BNU
+  * [State Key Laboratory of Cognitive Neuroscience and Learning](http://brain.bnu.edu.cn/en/Home)
+  * [IDG/McGovern Institute for Brain Research - BNU](http://imibr.bnu.edu.cn/en)
 
 * 2019.08 - 2020.04: Group Leader
   * CAS Institute of Psychology
