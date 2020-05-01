@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "CV (Link to [Publons](https://publons.com/researcher/1242801/xi-nian-zuo)"
 permalink: /cv/
 author_profile: true
 redirect_from:
