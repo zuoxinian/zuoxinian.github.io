@@ -6,10 +6,10 @@ excerpt: 'This comment focuses on reliability in neuroimaging and provides examp
 date: 2019-06-28
 venue: 'Nature Human Behaviour'
 paperurl: 'https://rdcu.be/bH2iL'
-citation: 'Xi-Nian, Zuo; Ting, Xu; Michael Peter, Milham. (2019). &quot;Harnessing reliability for neuroscience research.&quot; <i>Nature Human Behaviour</i>, 3:768–771.'
+citation: 'Xi-Nian, Zuo; Ting, Xu; Michael P., Milham. (2019). &quot;Harnessing reliability for neuroscience research.&quot; <i>Nature Human Behaviour</i>, 3:768–771.'
 ---
 Neuroscientists are amassing the large-scale datasets needed to study individual differences and identify biomarkers. However, measurement reliability within individual samples is often suboptimal, thereby requiring unnecessarily large samples. We focus our comment on reliability in neuroimaging and provide examples of how the reliability can be increased.
 
 Read this paper via the [Springer Nature SharedIt Initiative](https://rdcu.be/bH2iL)
 
-Recommended citation: Xi-Nian, Zuo; Ting, Xu; Michael Peter, Milham. (2019). &quot;Harnessing reliability for neuroscience research.&quot; <i>Nature Human Behaviour</i>, 3:768–771.
+Recommended citation: Xi-Nian, Zuo; Ting, Xu; Michael P., Milham. (2019). &quot;Harnessing reliability for neuroscience research.&quot; <i>Nature Human Behaviour</i>, 3:768–771.
