@@ -14,4 +14,4 @@ Much like genomics, brain connectomics has rapidly become a core component of mo
 
 [Download paper here](https://github.com/zuoxinian/CCS/blob/master/manual/ccs.paper.pdf)
 
-Recommended citation: Ting, Xu; Zhi, Yang; Lili, Jiang; Xiu-Xia, Xing; Xi-Nian, Zuo. (2015). "A Connectome Computation System for discovery science of brain." <i>Science Bulletin</i>. 60(1):86-95.
+Recommended citation: Ting, Xu; Zhi, Yang; Lili, Jiang; Xiu-Xia, Xing; Xi-Nian, Zuo. (2015). "A Connectome Computation System for discovery science of brain." [<i>Science Bulletin</i>](https://www.sciencedirect.com/journal/science-bulletin). 60(1):86-95.
