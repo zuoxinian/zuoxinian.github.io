@@ -14,4 +14,4 @@ Neuroscientists are amassing the large-scale datasets needed to study individual
 
 Read this paper via the [Springer Nature SharedIt Initiative](https://rdcu.be/bH2iL)
 
-Recommended citation: Xi-Nian, Zuo; Ting, Xu; Michael P., Milham. (2019). &quot;Harnessing reliability for neuroscience research.&quot; <i>Nature Human Behaviour</i>, 3:768–771.
+Recommended citation: Xi-Nian, Zuo; Ting, Xu; Michael P., Milham. (2019). &quot;Harnessing reliability for neuroscience research.&quot; [<i>Nature Human Behaviour</i>](https://www.nature.com/nathumbehav), 3:768–771.
