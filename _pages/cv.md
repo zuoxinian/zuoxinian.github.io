@@ -94,10 +94,10 @@ Service and leadership
 * Brainhack Vienna 2016 - Reliability and Reproducibility in Connectomics: Co-organizer
 
 * Journal Editorial Service
-  * <i>Neuroscience</i>: senior editor, 2018-present
-  * <i>NeuroImage</i>: editor, 2018-present
-  * <i>NeuroImage: Clinical</i>: editor, 2018-present
-  * <i>Frontiers for Young Mind</i>: associate editor, 2018-present
-  * <i>Network Neuroscience</i>: associate editor, 2017-present
-  * <i>Frontier in Brain Imaging Methods</i>: associate editor, 2015-present
-  * <i>Science Bulletin</i>: associate editor, 2015-2018
+  * <i>Neuroscience:</i> senior editor, 2018-present
+  * <i>NeuroImage:</i> editor, 2018-present
+  * <i>NeuroImage: Clinical:</i> editor, 2018-present
+  * <i>Frontiers for Young Mind:</i> associate editor, 2018-present
+  * <i>Network Neuroscience:</i> associate editor, 2017-present
+  * <i>Frontier in Brain Imaging Methods:</i> associate editor, 2015-present
+  * <i>Science Bulletin:</i> associate editor, 2015-2018
