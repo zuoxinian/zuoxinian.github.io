@@ -29,10 +29,38 @@ Professional Appointments
   * State Key Laboratory of Cognitive Neuroscience and Learning
   * IDG/McGovern Institute for Brain Research - BNU
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2019.08 - 2020.04: Group Leader
+  * CAS Institute of Psychology
+  * Innovative Research Group of Lifespan Brain-Mind Development and its Genetic-Environmental Association
+  
+* 2017.12 - now: Co-director
+  * CAS Institute of Psychology
+  * Research Center for Lifespan Development of Mind and Brain ([CLIMB](https://climbgroup.org))
+
+* 2017.07 - 2020.04: Director
+  * University of Chinese Academy of Sciences (UCAS)
+  * Department of Psychology
+  * Research Section on Human Lifespan Development 
+  
+* 2017.07 - 2020.04: Team Leader
+  * CAS Institute of Psychology
+  * Lifespan Connectomics and Behavior Team
+
+* 2015.06 - 2020.04: Director
+  * CAS Institute of Psychology
+  * Magnetic Resonance Imaging Research Center
+  
+* 2014.06 - 2020.04: Director
+  * Chinese Academy of Sciences
+  * Key Laboratory of Behavioral Science
+  
+* 2012.06 - 2020.04: Full Research Professor
+  * CAS Institute of Psychology
+  * Division of Cognitive and Behavioral Development
+  
+* 2010.12 - 2012.06: Distinguished Research Professor
+  * CAS Institute of Psychology
+  * Division of Cognitive and Behavioral Development
   
 Publications
 ======
