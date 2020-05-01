@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV (Link to [Publons](https://publons.com/researcher/1242801/xi-nian-zuo)"
+title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+More Details Linking to [Publons](https://publons.com/researcher/1242801/xi-nian-zuo)
 
 Education
 ======
