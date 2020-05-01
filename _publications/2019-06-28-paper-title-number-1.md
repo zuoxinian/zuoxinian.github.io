@@ -10,7 +10,7 @@ citation: 'Xi-Nian, Zuo; Ting, Xu; Michael P., Milham. (2019). &quot;Harnessing 
 ---
 Neuroscientists are amassing the large-scale datasets needed to study individual differences and identify biomarkers. However, measurement reliability within individual samples is often suboptimal, thereby requiring unnecessarily large samples. We focus our comment on reliability in neuroimaging and provide examples of how the reliability can be increased.
 
-<img src='/images/MTI-logo500x300.jpg' align="middle"><br/>
+<img src='/images/MTI-500x300.jpg' align="middle"><br/>
 
 Read this paper via the [Springer Nature SharedIt Initiative](https://rdcu.be/bH2iL)
 
