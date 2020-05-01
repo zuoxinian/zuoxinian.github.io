@@ -82,7 +82,7 @@ Teaching
   
 Service and leadership
 ======
-* Organization for Human Brain Mapping (OHBM): Council Member
+* Organization for Human Brain Mapping ([OHBM](https://www.humanbrainmapping.org)): Council Member
   * 2018-2019, Program Chair Elect
   * 2019-2020, Program Chair 
   * 2020-2021, Past Program Chair
