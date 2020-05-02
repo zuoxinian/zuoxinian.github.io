@@ -1,5 +1,5 @@
 ---
-title: "A Connectome Computation System for discovery science of brain"
+title: "Network centrality in the human functional connectome"
 collection: publications
 permalink: /publication/2012-08-01-paper-title-number-5
 excerpt: 'This assemble and visualize the voxel-wise (4 mm) functional connectome as a functional network.'
