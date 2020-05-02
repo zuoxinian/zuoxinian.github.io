@@ -2,7 +2,7 @@
 title: "Network centrality in the human functional connectome"
 collection: publications
 permalink: /publication/2012-08-01-paper-title-number-5
-excerpt: 'This assemble and visualize the voxel-wise (4 mm) functional connectome as a functional network.'
+excerpt: 'This work assembles and visualizes the voxel-wise (4 mm) functional connectome as a functional network.'
 date: 2012-08-01
 venue: 'Cerebral Cortex'
 paperurl: 'https://academic.oup.com/cercor/article-pdf/22/8/1862/17306507/bhr269.pdf'
