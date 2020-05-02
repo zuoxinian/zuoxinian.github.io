@@ -10,7 +10,7 @@ citation: 'Xi-Nian, Zuo; Ross, Ehmke; Maarten, Mennes; Davide, Imperati; F Xavie
 ---
 We assemble and visualize the voxel-wise (4 mm) functional connectome as a functional network. We then demonstrate that each centrality measure captures different aspects of connectivity, highlighting the importance of considering both global and local connectivity properties of the functional connectome.
 
-<img src='/images/CCS-logo500x300.png' align="middle"><br/>
+<img src='/images/CC-500x300.png' align="middle"><br/>
 
 [Download paper here](https://academic.oup.com/cercor/article-pdf/22/8/1862/17306507/bhr269.pdf) via open access at Oxford Press.
 
