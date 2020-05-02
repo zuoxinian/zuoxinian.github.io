@@ -10,8 +10,8 @@ citation: 'Xi-Nian, Zuo; Ye, He; Xuequan, Su; Xiao-Hui, Hou; Xuchu, Weng; Qiang,
 ---
 By harnessing recently developed scientific framework on human lifespan connectomics using DPN approaches, CLIMB aims to unfold the mysterious inner workings of the human brain to determine the synchrony between brain and mind along the steps of the lifespan and how the genes and environment travel this path together. It is our hope in near future that CLIMB might serve as an international research hub to unlock the perplexities underlying the mechanisms of human brain structure and function and to help translate these findings into clinical, engineering and educational settings.
 
-<img src='/images/MTI-500x300.jpg' align="middle"><br/>
+<img src='/images/DPN-SciBull500x300.png' align="middle"><br/>
 
-Please [download PDF](https://rdcu.be/bH2iL) version of this paper here.
+[Download paper here](http://zuoxinian.github.io/files/DPN-SciBull.pdf)
 
 Recommended citation: Xi-Nian, Zuo; Ye, He; Xuequan, Su; Xiao-Hui, Hou; Xuchu, Weng; Qiang, Li. (2018). Developmental population neuroscience: emerging from ICHBD. [<i>Science Bulletin</i>](https://www.sciencedirect.com/journal/science-bulletin), 63(6):331-332.
