@@ -10,7 +10,9 @@ location: "OHBM Conference Center"
 
 This is a series of education courses I taught during [OHBM](https://www.humanbrainmapping.org) conferences (2018 - present).
 
-An overview
+List of links to the course recordings
 ======
 
-[2018-06-07, Sigapore](https://www.pathlms.com/ohbm/courses/8246), Neuroinformatics and Replication: Beyond BASH Scripts and Winner’s Curses
+* [2018-06-07, Sigapore](https://www.pathlms.com/ohbm/courses/8246), Neuroinformatics and Replication: Beyond BASH Scripts and Winner’s Curses
+* [2019-06-09, Rome](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3882), MISSED.
+* [2020-06-23, Virtual](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3977), Human Brain Mapping of Individual Differences: Reliability, Reproducibility and Replicability.
