@@ -8,7 +8,7 @@ date: 2018-06-07
 location: "OHBM Conference Center"
 ---
 
-This is a series of education course I teach during [OHBM](https://www.humanbrainmapping.org) conferences (2018 - present).
+This is a series of education courses I taught during [OHBM](https://www.humanbrainmapping.org) conferences (2018 - present).
 
 An overview
 ======
