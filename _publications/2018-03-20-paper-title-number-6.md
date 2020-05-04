@@ -2,7 +2,7 @@
 title: "Developmental population neuroscience: emerging from ICHBD"
 collection: publications
 permalink: /publication/2018-03-20-paper-title-number-6
-excerpt: 'This paper proposes a new field of ‘developmental population neuroscience (DPN) for identifying environmental and genetic factors that shape development of the human brain.'
+excerpt: 'This paper proposes a new field of 'developmental population neuroscience' (DPN) for identifying environmental and genetic factors that shape development of the human brain.'
 date: 2018-03-20
 venue: 'Science Bulletin'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2095927318300082'
