@@ -102,4 +102,4 @@ Service and leadership
   * <i>Frontiers for Young Mind:</i> associate editor, 2018-present
   * <i>Network Neuroscience:</i> associate editor, 2017-present
   * <i>Frontier in Brain Imaging Methods:</i> associate editor, 2015-present
-  * <i>Science Bulletin:</i> associate editor, 2015-2018
+  * [<i>Science Bulletin</i>](https://mc03.manuscriptcentral.com/csb): associate editor, 2015-2018
