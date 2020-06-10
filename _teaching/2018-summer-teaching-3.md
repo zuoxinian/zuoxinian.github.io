@@ -10,6 +10,8 @@ location: "OHBM Conference Center"
 
 This is a series of education courses I taught during [OHBM](https://www.humanbrainmapping.org) conferences (2018 - present).
 
+[Beijing Time <---> Mountain Time](http://www.timebie.com/cn/mountainbeijing.php)
+
 List of links to the course recordings
 ======
 
