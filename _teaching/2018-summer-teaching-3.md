@@ -17,4 +17,4 @@ List of links to the course recordings
 
 * [2018-06-07, Sigapore](https://www.pathlms.com/ohbm/courses/8246), Neuroinformatics and Replication: Beyond BASH Scripts and Winner’s Curses
 * [2019-06-09, Rome](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=3882), MISSED.
-* [2020-06-23, Virtual](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3977), Human Brain Mapping of Individual Differences: Reliability, Reproducibility and Replicability.
+* [2020-06-23, Virtual](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageID=3977), Human Brain Mapping of Individual Differences: Reliability, Reproducibility and Replicability. [Data and Code](https://github.com/zuoxinian/CCNP/tree/master/3R-BRAIN)
