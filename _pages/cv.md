@@ -96,6 +96,7 @@ Service and leadership
 * Brainhack Vienna 2016 - Reliability and Reproducibility in Connectomics: Co-organizer
 
 * Journal Editorial Service
+  * [<i>Human Brain Mapping</i>](https://onlinelibrary.wiley.com/journal/10970193): associate editor, 2020-present
   * [<i>Neuroscience</i>](https://www.editorialmanager.com/nsc/default.aspx): senior editor, 2018-present
   * <i>NeuroImage:</i> editor, 2018-present
   * <i>NeuroImage: Clinical:</i> editor, 2018-present
