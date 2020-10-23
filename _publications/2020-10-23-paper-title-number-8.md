@@ -2,7 +2,7 @@
 title: "Charting brain growth in tandem with brain templates at school age"
 collection: publications
 permalink: /publication/2020-10-23-paper-title-number-8
-excerpt: 'In this work, the researchers analyzed a large neuroimaging dataset of Chinese and American pediatric brains, and demonstrated that age- and ethnicity-specific brain templates enable more reliable and accurate mapping of human brain growth charts. They found that the ethnic difference in cortical volume is a marker of developmental divergence, particularly in cortical areas of the high-order associative networks, which exhibit greater functional flexibility, morphological variability and hemispheric asymmetry.'
+excerpt: 'In this work, the researchers analyzed a large neuroimaging dataset of Chinese and American pediatric brains, and demonstrated that age- and ethnicity-specific brain templates enable more reliable and accurate mapping of human brain growth charts.'
 date: 2020-10-23
 venue: 'Science Bulletin'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S2095927320304965'
