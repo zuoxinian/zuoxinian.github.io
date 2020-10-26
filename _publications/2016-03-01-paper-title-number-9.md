@@ -10,7 +10,7 @@ citation: 'Ye, He; Ting, Xu; Wei Zhang; Xi-Nian, Zuo. (2016). &quot;Lifespan anx
 ---
 The amygdala plays a pivotal role in processing anxiety and connects to large-scale brain networks. However, intrinsic functional connectivity (iFC) between amygdala and these networks has rarely been examined in relation to anxiety, especially across the lifespan. We employed resting-state functional MRI data from 280 healthy adults (18-83.5 yrs) to elucidate the relationship between anxiety and amygdala iFC with common cortical networks.
 
-<img src='/images/CCS-logo500x300.png' align="middle"><br/>
+<img src='/images/HBM-37-1178-g001.jpg' align="middle"><br/>
 
 [Download paper here](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5064618/pdf/HBM-37-1178.pdf)
 
