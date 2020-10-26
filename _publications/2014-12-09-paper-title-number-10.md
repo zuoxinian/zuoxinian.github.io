@@ -10,7 +10,7 @@ citation: 'Xi-Nian, Zuo; Jeffrey S., Anderson; Pierre, Bellec; Rasmus M., Birn; 
 ---
 Efforts to identify meaningful functional imaging-based biomarkers are limited by the ability to reliably characterize inter-individual differences in human brain function. Although a growing number of connectomics-based measures are reported to have moderate to high test-retest reliability, the variability in data acquisition, experimental designs, and analytic methods precludes the ability to generalize results. The Consortium for Reliability and Reproducibility (CoRR) is working to address this challenge and establish test-retest reliability as a minimum standard for methods development in functional connectomics. Specifically, CoRR has aggregated 1,629 typical individuals' resting state fMRI (rfMRI) data (5,093 rfMRI scans) from 18 international sites, and is openly sharing them via the International Data-sharing Neuroimaging Initiative (INDI). To allow researchers to generate various estimates of reliability and reproducibility, a variety of data acquisition procedures and experimental designs are included. Similarly, to enable users to assess the impact of commonly encountered artifacts (for example, motion) on characterizations of inter-individual variation, datasets of varying quality are included.
 
-<img src='/images/HBM-37-1178-g001.jpg' align="middle"><br/>
+<img src='https://github.com/zuoxinian/CoRR/raw/master/logo/CoRR_140417_a-07.png' align="middle"><br/>
 
 [Download paper here](https://www.nature.com/articles/sdata201449.pdf)
 
