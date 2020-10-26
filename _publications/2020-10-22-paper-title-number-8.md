@@ -1,7 +1,7 @@
 ---
 title: "Charting brain growth in tandem with brain templates at school age"
 collection: publications
-permalink: /publication/2020-10-23-paper-title-number-8
+permalink: /publication/2020-10-22-paper-title-number-8
 excerpt: 'In this work, the researchers analyzed a large neuroimaging dataset of Chinese and American pediatric brains, and demonstrated that age- and ethnicity-specific brain templates enable more reliable and accurate mapping of human brain growth charts.'
 date: 2020-10-23
 venue: 'Science Bulletin'
