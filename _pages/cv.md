@@ -104,4 +104,4 @@ Service and leadership
   * [Frontiers for Neuroinformatics](https://www.frontiersin.org/journals/neuroinformatics): associate editor, 2017-present
   * [Network Neuroscience](https://www.mitpressjournals.org/journals/netn/editorial): associate editor, 2017 (founding editorial board)-present
   * Frontier in Neuroscience: associate editor, [Brain Imaging Methods](https://www.frontiersin.org/journals/all/sections/brain-imaging-methods), 2015-present
-  * Science Bulletin: associate editor, [Medical and Life Sciences](https://mc03.manuscriptcentral.com/csb), 2015-2018 (founding editorial board)
+  * [Science Bulletin](https://www.sciencedirect.com/journal/science-bulletin): associate editor, [Medical and Life Sciences](https://mc03.manuscriptcentral.com/csb), 2015-2018 (founding editorial board)
