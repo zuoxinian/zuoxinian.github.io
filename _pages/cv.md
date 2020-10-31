@@ -103,5 +103,5 @@ Service and leadership
   * [Frontiers for Young Mind](https://kids.frontiersin.org): associate editor, [Neuroscience Speciality](https://kids.frontiersin.org/specialties/neuroscience), 2018-present
   * [Frontiers for Neuroinformatics](https://www.frontiersin.org/journals/neuroinformatics): associate editor, 2017-present
   * [Network Neuroscience](https://www.mitpressjournals.org/journals/netn/editorial): associate editor, 2017 (founding editorial board)-present
-  * [Frontier in Neuroscience](https://www.frontiersin.org/journals/human-neuroscience): associate editor, [Brain Imaging Methods](https://www.frontiersin.org/journals/all/sections/brain-imaging-methods), 2015-present
+  * [Frontier in Neuroscience](https://www.frontiersin.org/journals/neuroscience): associate editor, [Brain Imaging Methods](https://www.frontiersin.org/journals/all/sections/brain-imaging-methods), 2015-present
   * [Science Bulletin](https://www.sciencedirect.com/journal/science-bulletin): associate editor, [Medical and Life Sciences](https://mc03.manuscriptcentral.com/csb), 2015-2018 (founding editorial board)
