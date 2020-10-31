@@ -89,9 +89,9 @@ Service and leadership
   * 2019-2020, Program Chair 
   * 2020-2021, Past Program Chair
   
-* Consortium for Reliability and Reproducibility (CoRR): Project Coordinator, Co-Founder
+* [Consortium for Reliability and Reproducibility](https://www.frontiersin.org/research-topics/5137/reliability-and-reproducibility-in-functional-connectomics) (CoRR): Project Coordinator, Co-Founder
 
-* Chinese Color Nest Project (CCNP): Founder, Project Leader
+* [Chinese Color Nest Project](https://github.com/zuoxinian/CCNP) (CCNP): Founder, Project Leader
 
 * Brainhack Vienna 2016 - Reliability and Reproducibility in Connectomics: Co-organizer
 
@@ -100,8 +100,8 @@ Service and leadership
   * [Neuroscience](https://www.editorialmanager.com/nsc/default.aspx): senior editor, 2018-present
   * [NeuroImage](https://www.sciencedirect.com/journal/neuroimage/about/editorial-board): editorial board, 2018-present
   * [NeuroImage:Clinical](https://www.sciencedirect.com/journal/neuroimage-clinical/about/editorial-board): editorial boad, 2018-present
-  * Frontiers for Young Mind: associate editor, [Neuroscience Speciality](https://kids.frontiersin.org/specialties/neuroscience), 2018-present
+  * [Frontiers for Young Mind](https://kids.frontiersin.org): associate editor, [Neuroscience Speciality](https://kids.frontiersin.org/specialties/neuroscience), 2018-present
   * [Frontiers for Neuroinformatics](https://www.frontiersin.org/journals/neuroinformatics): associate editor, 2017-present
   * [Network Neuroscience](https://www.mitpressjournals.org/journals/netn/editorial): associate editor, 2017 (founding editorial board)-present
-  * Frontier in Neuroscience: associate editor, [Brain Imaging Methods](https://www.frontiersin.org/journals/all/sections/brain-imaging-methods), 2015-present
+  * [Frontier in Neuroscience](https://www.frontiersin.org/journals/human-neuroscience): associate editor, [Brain Imaging Methods](https://www.frontiersin.org/journals/all/sections/brain-imaging-methods), 2015-present
   * [Science Bulletin](https://www.sciencedirect.com/journal/science-bulletin): associate editor, [Medical and Life Sciences](https://mc03.manuscriptcentral.com/csb), 2015-2018 (founding editorial board)
