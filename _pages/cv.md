@@ -96,11 +96,12 @@ Service and leadership
 * Brainhack Vienna 2016 - Reliability and Reproducibility in Connectomics: Co-organizer
 
 * Journal Editorial Service
-  * [<i>Human Brain Mapping</i>](https://onlinelibrary.wiley.com/journal/10970193): associate editor, 2020-present
-  * [<i>Neuroscience</i>](https://www.editorialmanager.com/nsc/default.aspx): senior editor, 2018-present
-  * <i>NeuroImage:</i> editor, 2018-present
-  * <i>NeuroImage: Clinical:</i> editor, 2018-present
-  * <i>Frontiers for Young Mind:</i> associate editor, 2018-present
-  * <i>Network Neuroscience:</i> associate editor, 2017-present
-  * <i>Frontier in Brain Imaging Methods:</i> associate editor, 2015-present
-  * [<i>Science Bulletin</i>](https://mc03.manuscriptcentral.com/csb): associate editor, 2015-2018
+  * [Human Brain Mapping](https://onlinelibrary.wiley.com/journal/10970193): associate editor, 2020-present
+  * [Neuroscience](https://www.editorialmanager.com/nsc/default.aspx): senior editor, 2018-present
+  * [NeuroImage](https://www.sciencedirect.com/journal/neuroimage/about/editorial-board): editorial board, 2018-present
+  * [NeuroImage:Clinical](https://www.sciencedirect.com/journal/neuroimage-clinical/about/editorial-board): editorial boad, 2018-present
+  * Frontiers for Young Mind: associate editor, [Neuroscience Speciality](https://kids.frontiersin.org/specialties/neuroscience), 2018-present
+  * [Frontiers for Neuroinformatics](https://www.frontiersin.org/journals/neuroinformatics): associate editor, 2017-present
+  * [Network Neuroscience](https://www.mitpressjournals.org/journals/netn/editorial): associate editor, 2017 (founding editorial board)-present
+  * Frontier in Neuroscience: associate editor, [Brain Imaging Methods](https://www.frontiersin.org/journals/all/sections/brain-imaging-methods), 2015-present
+  * Science Bulletin: associate editor, [Medical and Life Sciences](https://mc03.manuscriptcentral.com/csb), 2015-2018 (founding editorial board)
