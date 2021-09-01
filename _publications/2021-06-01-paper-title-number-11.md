@@ -1,0 +1,17 @@
+---
+title: "Shifting gradients of macroscale cortical organization mark the transition from childhood to adolescence"
+collection: publications
+permalink: /publication/2021-06-01-paper-title-number-11
+excerpt: 'Here, we describe age-dependent shifts in the macroscale organization of cortex in childhood and adolescence. The characterization of functional connectivity patterns in children revealed an overarching organizational framework anchored within the unimodal cortex, between somatosensory/motor and visual regions. Conversely, in adolescents, we observed a transition into an adult-like gradient, situating the default network at the opposite end of a spectrum from primary somatosensory/motor regions.'
+date: 2021-06-01
+venue: 'PNAS'
+paperurl: 'https://www.pnas.org/content/118/28/e2024448118'
+citation: 'Hao-Ming, Dong; Daniel S., Margulies; Xi-Nian, Zuo; Avram J., Holmes. (2021). &quot;Shifting gradients of macroscale cortical organization mark the transition from childhood to adolescence.&quot; <i>Proceedings of the National Academy of Sciences USA</i>, 118(28):e2024448118.'
+---
+The transition from childhood to adolescence is marked by pronounced shifts in brain structure and function that coincide with the development of physical, cognitive, and social abilities. Prior work in adult populations has characterized the topographical organization of the cortex, revealing macroscale functional gradients that extend from unimodal (somatosensory/motor and visual) regions through the cortical association areas that underpin complex cognition in humans. However, the presence of these core functional gradients across development as well as their maturational course have yet to be established. Here, leveraging 378 resting-state functional MRI scans from 190 healthy individuals aged 6 to 17 y old, we demonstrate that the transition from childhood to adolescence is reflected in the gradual maturation of gradient patterns across the cortical sheet. In children, the overarching organizational gradient is anchored within the unimodal cortex, between somatosensory/motor and visual territories. Conversely, in adolescence, the principal gradient of connectivity transitions into an adult-like spatial framework, with the default network at the opposite end of a spectrum from primary sensory and motor regions. The observed gradient transitions are gradually refined with age, reaching a sharp inflection point in 13 and 14 y olds. Functional maturation was nonuniformly distributed across cortical networks. Unimodal networks reached their mature positions early in development, while association regions, in particular the medial prefrontal cortex, reached a later peak during adolescence. These data reveal age-dependent changes in the macroscale organization of the cortex and suggest the scheduled maturation of functional gradient patterns may be critically important for understanding how cognitive and behavioral capabilities are refined across development.
+
+<img src='https://www.pnas.org/content/pnas/118/28/eiti2821118/F3.large.jpg?width=800&height=600&carousel=1' align="middle"><br/>
+
+[Download paper here](https://www.pnas.org/content/pnas/118/28/e2024448118.full.pdf)
+
+Recommended citation: Hao-Ming, Dong; Daniel S., Margulies; Xi-Nian, Zuo; Avram J., Holmes. (2021). Shifting gradients of macroscale cortical organization mark the transition from childhood to adolescence. [<i>Proceedings of the National Academy of Sciences USA</i>](https://www.pnas.org), 118(28):e2024448118.
