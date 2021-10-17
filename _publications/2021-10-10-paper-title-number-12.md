@@ -1,5 +1,5 @@
 ---
-title: "Chinese Color Nest Project : An accelerated longitudinal brain-mind cohort"
+title: "Chinese Color Nest Project: An accelerated longitudinal brain-mind cohort"
 collection: publications
 permalink: /publication/2021-10-10-paper-title-number-12
 excerpt: 'The ongoing Chinese Color Nest Project (CCNP) was established to create normative charts for brain structure and function across the human lifespan, and link age-related changes in brain imaging measures to psychological assessments of behavior, cognition, and emotion using an accelerated longitudinal design. In the initial stage, CCNP aims to recruit 1520 healthy individuals (6–90 years), which comprises three phases: developing (devCCNP: 6–18 years, N = 480), maturing (matCCNP: 20–60 years, N = 560) and aging (ageCCNP: 60–84 years, N = 480). In this paper, we present an overview of the devCCNP, including study design, participants, data collection and preliminary findings.'
