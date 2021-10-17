@@ -18,4 +18,4 @@ An overview
 Course Materials
 ======
 
-Please go visit the course website at deepneuro.
+Please go visit [the course website at deepneuro](http://deepneuro.bnu.edu.cn/?p=43).
