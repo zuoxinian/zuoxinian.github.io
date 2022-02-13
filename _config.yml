@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "xinian"
   avatar           : "profile-pencil-circle.png"
-  bio              : "Applied Mathematician and Brain Scientist, Professor at Beijing Normal University"
+  bio              : "Applied Mathematician and Brain Scientist, Professor"
   location         : "Beijing, China"
-  employer         : "https://english.bnu.edu.cn"
+  employer         : "Beijing Normal University"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=Zuo+XN&sort=date"
   googlescholar    : "http://scholar.google.com/citations?user=a3-gVGMAAAAJ&hl=en"
   email            : "xinian.zuo#bnu.edu.cn"
