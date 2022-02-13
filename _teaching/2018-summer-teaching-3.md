@@ -2,13 +2,13 @@
 title: "Population Neuroscience: How to Responsibly Handle Big Data in the Age of Biobanks?"
 collection: teaching
 type: "Education Course"
-permalink: /teaching/2018-summer-teaching-3
+permalink: /teaching/2018-summer-teaching-ohbm
 venue: "Annual Meeting of the Organization on Human Brain Mapping (OHBM)"
 date: 2018-06-07
 location: "OHBM Conference Center"
 ---
 
-This is a series of education courses I taught during [OHBM](https://www.humanbrainmapping.org) conferences (2018 - present).
+This is a series of education courses I taught during [OHBM](https://www.humanbrainmapping.org) conferences (2018 - 2020).
 
 [Beijing Time <---> Mountain Time](http://www.timebie.com/cn/mountainbeijing.php)
 
