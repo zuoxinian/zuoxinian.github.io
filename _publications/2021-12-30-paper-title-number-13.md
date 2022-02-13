@@ -8,9 +8,9 @@ venue: 'PSYCHRAD'
 paperurl: 'https://academic.oup.com/psyrad/article/1/4/272/6490296'
 citation: 'Li-Zhen, Chen; Avram J, Holmes; Xi-Nian, Zuo; Qi, Dong. (2021). &quot;Neuroimaging brain growth charts: A road to mental health.&quot; <i>Psychoradiology</i>, 1(4):272-286.'
 ---
-More than two centuries ago, Count Philibert de Montbeillard drew the first growth chart to monitor his son’s growth of height. A growth chart represents an impressive synthesis of anthropometry, statistical summary and chart design, often conceptualized as a “road to health”, remaining a cornerstone of pediatric healthcare. However, there are no analogous charts available for the human brain growth. Such lack of normative assessment of brain development is particularly relevant to psychiatric disorders, which are increasingly recognized as a consequence of atypical brain development. Advanced by modern neuroimaging technologies, especially the multimodal magnetic resonance imaging, the related measurement theory and large-scale brain-mind cohorts, the brain growth charts are becoming materializable. Image credit: Dr. Chao Jiang.
+More than two centuries ago, Count Philibert de Montbeillard drew the first growth chart to monitor his son’s growth of height. A growth chart represents an impressive synthesis of anthropometry, statistical summary and chart design, often conceptualized as a “road to health”, remaining a cornerstone of pediatric healthcare. However, there are no analogous charts available for the human brain growth. Such lack of normative assessment of brain development is particularly relevant to psychiatric disorders, which are increasingly recognized as a consequence of atypical brain development. Advanced by modern neuroimaging technologies, especially the multimodal magnetic resonance imaging, the related measurement theory and large-scale brain-mind cohorts, the brain growth charts are becoming materializable. Image credit: Dr. [Chao Jiang](http://ibraindata.com).
 
-<img src='images/GC-2021-12-30.jpg' align="middle"><br/>
+<img src='/images/GC-2021-12-30.jpg' align="middle"><br/>
 
 [Download paper here](https://academic.oup.com/psyrad/article-pdf/1/4/272/41988496/kkab022.pdf)
 
