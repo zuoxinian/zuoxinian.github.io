@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Discovery science of the human brain"
+title: "Developmental Population Neuroscience"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-It is the greatest challenge to open up the black-box of human brain. My long-term goal is to understand the complexity of human brain, especially its connectome (i.e., the comprehensive high-dimensional description of the brain network, or the entirety of brain connectivity). I use integrative neuroimaging and computational modeling methods to explore development-related patterns and complexity in connectomics, seeking knowledge that will translate into a better life style and education settings as well as diagnosis/treatment for patients by establishing normative trajectories of the conenctome across the human lifespan. 
+It is the greatest challenge to open up the black-box of human brain from a perspective of population neuroscience. My long-term goal is to understand the developmental complexity of human brain, especially its connectome (i.e., the comprehensive high-dimensional description of the brain network, or the entirety of brain connectivity). I use integrative neuroimaging and computational modeling methods to explore development-related patterns and complexity in connectomics, seeking knowledge that will translate into a better life style and education settings as well as diagnosis/treatment for patients by establishing normative trajectories of the conenctome across the human lifespan. Please visit the [Developmental Population Neuroscience Research Center](http://deepneuro.bnu.edu.cn) for more materials.
 
-Research summary - [Developmental Population Neuroscience](http://deepneuro.bnu.edu.cn)
+Research summary - Discovery science of the human brain
 ======
 The human brain is highly dynamic across the lifespan. The emerging network neuroscience framework together with brain imaging techniques (e.g., resting-state fMRI, rfMRI) provide unprecedented opportunities to delineate the dynamics of brain function across the lifespan. In the past decade (2010-2020), my research has mainly focused on the lifespan connectomics of the human brain by using rfMRI to 1) systematically evaluated the test-retest reliability for common measurements in functional connectomics, 2) model lifespan age-related changes of human brain networks, and 3) establish open resources for reproducible brain mapping research. These works are paving the way for developing neuroimaging biomarkers of both typical and atypical brain development as well as achieving better understanding of neurobiological basis of individual differences in cognition and behavior across the lifespan.
 
