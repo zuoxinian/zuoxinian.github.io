@@ -1,16 +1,16 @@
 ---
-title: "Human Functional Connectomics"
+title: "Developmental Population Neuroscience"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2022-spring-teaching-2
+type: "graduate course"
+permalink: /teaching/2022-autumn-teaching-3
 venue: "Beijing Normal University, State Key Laboratory of Cognitive Neuroscience and Learning"
-date: 2022-02-11
+date: 2022-08-31
 location: "Beijing, China"
 ---
 
-Lab Meeting: Human Functional Connectomics.
+Graduate Course: Developmental Population Neuroscience.
 
 An Overview
 ======
-Most are materials of the lab meeting at Beijing Normal University. Links will be added soon!
+The 2022-2023 course taught at Beijing Normal University. Links will be added soon!
 
