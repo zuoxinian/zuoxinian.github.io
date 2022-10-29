@@ -1,14 +1,14 @@
 ---
 title: "Developmental Population Neuroscience"
 collection: teaching
-type: "graduate course"
+type: "undergraduate course"
 permalink: /teaching/2022-autumn-teaching-3
-venue: "Beijing Normal University, State Key Laboratory of Cognitive Neuroscience and Learning"
+venue: "Beijing Normal University, Faculty of Psychology"
 date: 2022-08-31
 location: "Beijing, China"
 ---
 
-Graduate Course: Developmental Population Neuroscience.
+Undergraduate Course: Developmental Population Neuroscience.
 
 An Overview
 ======
