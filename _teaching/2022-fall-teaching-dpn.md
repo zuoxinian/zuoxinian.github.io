@@ -30,3 +30,18 @@ Class 2022/09/28
 ======
 [Individual-level Brain Demography](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN04-indivdmg-20220928.pdf)
 
+Class 2022/10/05
+======
+[Individual-level Cognition and Intelligence](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN05-indivcogn-20221005.pdf)
+
+Class 2022/10/12
+======
+[Reading Landmark Literature](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN06-reading-20221012.pdf)
+
+Class 2022/10/19
+======
+[Individual-level affective feeling and brain](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN07-indivemo-20221019.pdf)
+
+Class 2022/10/26
+======
+[Individualized behavior and brain](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN08-indivbehav-20221026.pdf)
