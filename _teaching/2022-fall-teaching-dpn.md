@@ -14,3 +14,7 @@ An Overview
 ======
 The 2022-2023 course taught at Beijing Normal University. Links will be added soon!
 
+Class 2022/08/31
+======
+A Brief History of Developmental Population Neuroscience
+
