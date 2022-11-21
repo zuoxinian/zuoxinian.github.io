@@ -40,11 +40,11 @@ Class 2022/10/12
 
 Class 2022/10/19
 ======
-[Individual-level affective feeling and brain](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN07-indivemo-20221019.pdf)
+[Individual-level Affective Feeling and Brain](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN07-indivemo-20221019.pdf)
 
 Class 2022/10/26
 ======
-[Individualized behavior and brain](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN08-indivbehav-20221026.pdf)
+[Individualized Behavior and Brain](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN08-indivbehav-20221026.pdf)
 
 Class 2022/11/02
 ======
