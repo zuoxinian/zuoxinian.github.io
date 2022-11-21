@@ -1,14 +1,14 @@
 ---
 title: "Developmental Population Neuroscience"
 collection: teaching
-type: "undergraduate course"
+type: "Undergraduate Course"
 permalink: /teaching/2022-autumn-teaching-3
 venue: "Beijing Normal University, Faculty of Psychology"
 date: 2022-08-31
 location: "Beijing, China"
 ---
 
-Undergraduate Course: Developmental Population Neuroscience.
+Developmental Population Neuroscience
 
 An Overview
 ======
@@ -45,3 +45,16 @@ Class 2022/10/19
 Class 2022/10/26
 ======
 [Individualized behavior and brain](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN08-indivbehav-20221026.pdf)
+
+Class 2022/11/02
+======
+[Individual Brain Health and Health History](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN09-indivhist-20221102.pdf)
+
+Class 2022/11/09
+======
+[Methodology](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN10-methods-20221109.pdf)
+
+Class 2022/11/16
+======
+[The Hierarchical Taxonomy of Psychopathology](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN11-HiTOP-20221116.pdf)
+
