@@ -64,7 +64,7 @@ Class 2022/11/23
 
 Class 2022/11/30
 ======
-[Cells in Brain](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN13-braincelss-20221130.pdf)
+[Cells in Brain](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN13-braincells-20221130.pdf)
 
 Class 2022/12/07
 ======
