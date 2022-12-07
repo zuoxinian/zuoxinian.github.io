@@ -68,4 +68,4 @@ Class 2022/11/30
 
 Class 2022/12/07
 ======
-[Personal Network and Community](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN14-brainfunc-20221207.pdf)
+[Personal Network and Community](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN14-PNC-20221207.pdf)
