@@ -58,3 +58,14 @@ Class 2022/11/16
 ======
 [The Hierarchical Taxonomy of Psychopathology](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN11-HiTOP-20221116.pdf)
 
+Class 2022/11/23
+======
+[My Personal Perspective on Human Brain Function](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN12-brainfunc-20221123.pdf)
+
+Class 2022/11/30
+======
+[Cells in Brain](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN13-braincelss-20221130.pdf)
+
+Class 2022/12/07
+======
+[Personal Network and Community](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN14-brainfunc-20221207.pdf)
