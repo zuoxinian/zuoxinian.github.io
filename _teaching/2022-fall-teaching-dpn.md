@@ -16,15 +16,15 @@ The 2022-2023 course taught at Beijing Normal University.
 
 ---
 
-Class 2022/08/31
+A Brief History of Developmental Population Neuroscience
 ======
-[![A Brief History]([https://github.com/zuoxinian/CDPN/blob/master/courses/cc01.jpg "A Brief History of Developmental Population Neuroscience")](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN01-intro-20220831.pdf)
+[![Class 2022/08/31]([<img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc01.jpg width=60% /> "A Brief History of Developmental Population Neuroscience")](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN01-intro-20220831.pdf)
 
 ---
 
-Class 2022/09/14
+Paradigms for Open Brain Sciences
 ======
-[Paradigms for Open Brain Sciences](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN02-openbrainsci-20220914.pdf)
+[![Class 2022/09/14]([ <img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc02.jpg width=60% /> "Paradigms for Open Brain Sciences")](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN02-openbrainsci-20220914.pdf)
 
 ---
 
