@@ -37,66 +37,77 @@ The 2022-2023 course taught at Beijing Normal University.
 
 ---
 
-Class 2022/09/28
-======
 [Individual-level Brain Demography](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN04-indivdmg-20220928.pdf)
+======
+
+<img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc04.jpg width=60% alt="2022/09/28" />
 
 ---
 
-Class 2022/10/05
-======
 [Individual-level Cognition and Intelligence](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN05-indivcogn-20221005.pdf)
+======
+
+<img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc05.jpg width=60% alt="2022/10/05" />
 
 ---
 
-Class 2022/10/12
-======
 [Reading Landmark Literature](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN06-reading-20221012.pdf)
+======
+
+<img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc06.jpg width=60% alt="2022/10/12" />
 
 ---
 
-Class 2022/10/19
-======
 [Individual-level Affective Feeling and Brain](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN07-indivemo-20221019.pdf)
+======
+
+<img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc07.jpg width=60% alt="2022/10/19" />
 
 ---
 
-Class 2022/10/26
-======
 [Individualized Behavior and Brain](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN08-indivbehav-20221026.pdf)
+======
+
+<img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc08.jpg width=60% alt="2022/10/26" />
 
 ---
 
-Class 2022/11/02
-======
 [Individual Brain Health and Health History](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN09-indivhist-20221102.pdf)
+======
+
+<img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc09.jpg width=60% alt="2022/11/02" />
 
 ---
 
-Class 2022/11/09
-======
 [Methodology](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN10-methods-20221109.pdf)
+======
+
+<img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc10.jpg width=60% alt="2022/11/09" />
 
 ---
 
-Class 2022/11/16
-======
 [The Hierarchical Taxonomy of Psychopathology](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN11-HiTOP-20221116.pdf)
+======
+
+<img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc11.jpg width=60% alt="2022/11/16" />
 
 ---
 
-Class 2022/11/23
-======
 [My Personal Perspective on Human Brain Function](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN12-brainfunc-20221123.pdf)
+======
+
+<img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc12.jpg width=60% alt="2022/11/23" />
 
 ---
 
-Class 2022/11/30
-======
 [Cells in Brain](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN13-braincells-20221130.pdf)
+======
+
+<img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc13.jpg width=60% alt="2022/11/30" />
 
 ---
 
-Class 2022/12/07
-======
 [Personal Network and Community](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN14-PNC-20221207.pdf)
+======
+
+<img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc14.jpg width=60% alt="2022/12/07" />
