@@ -16,23 +16,24 @@ The 2022-2023 course taught at Beijing Normal University.
 
 ---
 
-A Brief History of Developmental Population Neuroscience (2022/08/31)
+A Brief History of Developmental Population Neuroscience
 ======
 
-<img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc01.jpg width=60% alt="A Brief History of Developmental Population Neuroscience" longdesc="https://github.com/zuoxinian/CDPN/blob/master/courses/DPN01-intro-20220831.pdf" />
+<img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc01.jpg width=60% alt="2022/08/31: A Brief History of Developmental Population Neuroscience" longdesc="https://github.com/zuoxinian/CDPN/blob/master/courses/DPN01-intro-20220831.pdf" />
 
 ---
 
-Paradigms for Open Brain Sciences (Class 2022/09/14)
+Paradigms for Open Brain Sciences
 ======
 
-<img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc02.jpg width=60% alt="Paradigms for Open Brain Sciences" longdesc="https://github.com/zuoxinian/CDPN/blob/master/courses/DPN02-openbrainsci-20220914.pdf" />
+<img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc02.jpg width=60% alt="2022/09/14: Paradigms for Open Brain Sciences" longdesc="https://github.com/zuoxinian/CDPN/blob/master/courses/DPN02-openbrainsci-20220914.pdf" />
 
 ---
 
-Class 2022/09/21
+Measurement Theory for The Science of Individual Differences
 ======
-[Measurement Theory for The Science of Individual Differences](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN03-theoryindivsci-20220921.pdf)
+
+<img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc03.jpg width=60% alt="2022/09/21: Measurement Theory for The Science of Individual Differences" longdesc="https://github.com/zuoxinian/CDPN/blob/master/courses/DPN03-theoryindivsci-20220921.pdf" />
 
 ---
 
