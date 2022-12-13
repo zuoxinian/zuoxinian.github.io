@@ -18,7 +18,7 @@ The 2022-2023 course taught at Beijing Normal University.
 
 Class 2022/08/31
 ======
-[[!A Brief History]([https://github.com/zuoxinian/CDPN/blob/master/courses/cc01.jpg "A Brief History of Developmental Population Neuroscience")](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN01-intro-20220831.pdf)
+[![A Brief History]([https://github.com/zuoxinian/CDPN/blob/master/courses/cc01.jpg "A Brief History of Developmental Population Neuroscience")](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN01-intro-20220831.pdf)
 
 ---
 
