@@ -9,7 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
-More Details Linking to [Publons](https://publons.com/researcher/1242801/xi-nian-zuo)
+More Details Linking to [Web of Science](https://www.webofscience.com/wos/author/record/878715)
+
+Team Service and Leadership
+======
+* [3R-BRAIN Consortium](https://github.com/zuoxinian/3R-BRAIN): Founder, Project Leadership
+
+* [Consortium for Reliability and Reproducibility](https://www.frontiersin.org/research-topics/5137/reliability-and-reproducibility-in-functional-connectomics) (CoRR): Project Coordinator, Co-Founder
+
+* [Chinese Color Nest Project](https://github.com/zuoxinian/CCNP) (CCNP): Founder, Project Leadership
+ 
+* Organization for Human Brain Mapping ([OHBM](https://www.humanbrainmapping.org)): Council Member
+  * 2018-2019, Program Chair Elect
+  * 2019-2020, Program Chair 
+  * 2020-2021, Past Program Chair
+
+* Brainhack Vienna 2016 - Reliability and Reproducibility in Connectomics: Co-organizer
+
+* Journal Editorial Service
+  * [Science Bulletin](https://www.sciengine.com/SB/home): associate editor, [Life Sciences](https://mc03.manuscriptcentral.com/csb), 2023-2027
+  * [Chinese Science Bulletin](https://www.sciengine.com/CSB/home): associate editor, [Life Sciences](https://www.scicloudcenter.com/TB/login/index), 2023-2027
+  * [Scientific Data](https://www.nature.com/sdata): editorial boad, [Biological Sciences](https://www.nature.com/sdata/editorial-board#Biological-Sciences), 2022-present 
+  * [Network Neuroscience](https://www.mitpressjournals.org/journals/netn/editorial): associate editor, 2017 (founding editorial board)-present
+  * [Frontiers for Young Mind](https://kids.frontiersin.org): associate editor, [Neuroscience & Psychology Speciality](https://kids.frontiersin.org/specialties/neuroscience), 2018-present
+  * [Frontier in Neuroscience](https://www.frontiersin.org/journals/neuroscience): associate editor, [Brain Imaging Methods](https://www.frontiersin.org/journals/all/sections/brain-imaging-methods), 2015-present
+  * [Frontiers for Neuroinformatics](https://www.frontiersin.org/journals/neuroinformatics): associate editor, 2017-present
+  * [NeuroImage:Clinical](https://www.sciencedirect.com/journal/neuroimage-clinical/about/editorial-board): editorial boad, 2018-present
+  * [Human Brain Mapping](https://onlinelibrary.wiley.com/journal/10970193): associate editor, 2020-2022
+  * [Neuroscience](https://www.editorialmanager.com/nsc/default.aspx): senior editor, 2018-2022
+  * [NeuroImage](https://www.sciencedirect.com/journal/neuroimage/about/editorial-board): editorial board, 2018-2022
+  * [Science Bulletin](https://www.sciencedirect.com/journal/science-bulletin): associate editor, [Medical and Life Sciences](https://mc03.manuscriptcentral.com/csb), 2015-2018 (founding editorial board) 
 
 Education
 ======
@@ -35,7 +64,7 @@ Professional Appointments
   * CAS Institute of Psychology
   * Innovative Research Group of Lifespan Brain-Mind Development and its Genetic-Environmental Association
   
-* 2017.12 - now: Co-director
+* 2017.12 - 2022.06: Co-director
   * CAS Institute of Psychology
   * Research Center for Lifespan Development of Mind and Brain ([CLIMB](https://climbgroup.org))
 
@@ -81,27 +110,3 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Organization for Human Brain Mapping ([OHBM](https://www.humanbrainmapping.org)): Council Member
-  * 2018-2019, Program Chair Elect
-  * 2019-2020, Program Chair 
-  * 2020-2021, Past Program Chair
-  
-* [Consortium for Reliability and Reproducibility](https://www.frontiersin.org/research-topics/5137/reliability-and-reproducibility-in-functional-connectomics) (CoRR): Project Coordinator, Co-Founder
-
-* [Chinese Color Nest Project](https://github.com/zuoxinian/CCNP) (CCNP): Founder, Project Leader
-
-* Brainhack Vienna 2016 - Reliability and Reproducibility in Connectomics: Co-organizer
-
-* Journal Editorial Service
-  * [Human Brain Mapping](https://onlinelibrary.wiley.com/journal/10970193): associate editor, 2020-present
-  * [Neuroscience](https://www.editorialmanager.com/nsc/default.aspx): senior editor, 2018-present
-  * [NeuroImage](https://www.sciencedirect.com/journal/neuroimage/about/editorial-board): editorial board, 2018-present
-  * [NeuroImage:Clinical](https://www.sciencedirect.com/journal/neuroimage-clinical/about/editorial-board): editorial boad, 2018-present
-  * [Frontiers for Young Mind](https://kids.frontiersin.org): associate editor, [Neuroscience Speciality](https://kids.frontiersin.org/specialties/neuroscience), 2018-present
-  * [Frontiers for Neuroinformatics](https://www.frontiersin.org/journals/neuroinformatics): associate editor, 2017-present
-  * [Network Neuroscience](https://www.mitpressjournals.org/journals/netn/editorial): associate editor, 2017 (founding editorial board)-present
-  * [Frontier in Neuroscience](https://www.frontiersin.org/journals/neuroscience): associate editor, [Brain Imaging Methods](https://www.frontiersin.org/journals/all/sections/brain-imaging-methods), 2015-present
-  * [Science Bulletin](https://www.sciencedirect.com/journal/science-bulletin): associate editor, [Medical and Life Sciences](https://mc03.manuscriptcentral.com/csb), 2015-2018 (founding editorial board)
