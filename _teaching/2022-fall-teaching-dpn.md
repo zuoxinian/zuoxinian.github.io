@@ -23,7 +23,7 @@ The 2022-2023 course taught at Beijing Normal University.
 
 ---
 
-[Paradigms for Open Brain Sciences](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN02-openbrainsci-20220914.pdf)
+[Open & Team Paradigms for Brain Sciences](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN02-openbrainsci-20220914.pdf)
 ======
 
 <img src=https://github.com/zuoxinian/CDPN/blob/master/courses/cc02.jpg width=60% alt="2022/09/14" />
