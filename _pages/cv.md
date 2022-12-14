@@ -59,7 +59,7 @@ Professional Appointments
   * Beijing Normal University
 
 * 2020.04 - now: Professor, Principal Investigator
-  * [State Key Laboratory of Cognitive Neuroscience and Learning](http://brain.bnu.edu.cn/en/Home)
+  * [State Key Laboratory of Cognitive Neuroscience and Learning](https://brain.bnu.edu.cn/English/index.htm)
   * Beijing Normal University
 
 * 2019.08 - 2020.04: Group Leader
