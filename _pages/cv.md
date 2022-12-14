@@ -11,11 +11,11 @@ redirect_from:
 
 More Details Linking to [Web of Science](https://www.webofscience.com/wos/author/record/878715)
 
-Team Service and Leadership
+Team Leadership and Academic Services 
 ======
 * [3R-BRAIN Consortium](https://github.com/zuoxinian/3R-BRAIN): Founder, Project Leadership
 
-* [Consortium for Reliability and Reproducibility](https://www.frontiersin.org/research-topics/5137/reliability-and-reproducibility-in-functional-connectomics) (CoRR): Project Coordinator, Co-Founder
+* [Consortium for Reliability and Reproducibility](http://fcon_1000.projects.nitrc.org/indi/CoRR/html) (CoRR): Project Coordinator, Co-Founder; [Consortium Data Descriptor](https://www.nature.com/articles/sdata201449); [Consortium Hardcore Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009279); [Human MRI Reproducibility](https://www.nature.com/collections/yglmshrkbg); [Reliablity and Reproducibility for Functional Connectomics](https://www.frontiersin.org/research-topics/5137/reliability-and-reproducibility-in-functional-connectomics)
 
 * [Chinese Color Nest Project](https://github.com/zuoxinian/CCNP) (CCNP): Founder, Project Leadership
  
@@ -32,10 +32,8 @@ Team Service and Leadership
   * [Scientific Data](https://www.nature.com/sdata): editorial boad, [Biological Sciences](https://www.nature.com/sdata/editorial-board#Biological-Sciences), 2022-present 
   * [Network Neuroscience](https://www.mitpressjournals.org/journals/netn/editorial): associate editor, 2017 (founding editorial board)-present
   * [Frontiers for Young Mind](https://kids.frontiersin.org): associate editor, [Neuroscience & Psychology Speciality](https://kids.frontiersin.org/specialties/neuroscience), 2018-present
-  * [Frontier in Neuroscience](https://www.frontiersin.org/journals/neuroscience): associate editor, [Brain Imaging Methods](https://www.frontiersin.org/journals/all/sections/brain-imaging-methods), 2015-present
-  * [Frontiers for Neuroinformatics](https://www.frontiersin.org/journals/neuroinformatics): associate editor, 2017-present
   * [NeuroImage:Clinical](https://www.sciencedirect.com/journal/neuroimage-clinical/about/editorial-board): editorial boad, 2018-present
-  * [Human Brain Mapping](https://onlinelibrary.wiley.com/journal/10970193): associate editor, 2020-2022
+  * [Human Brain Mapping](https://onlinelibrary.wiley.com/journal/10970193): associate editor, 2020-2022; editorial board, 2023-present
   * [Neuroscience](https://www.editorialmanager.com/nsc/default.aspx): senior editor, 2018-2022
   * [NeuroImage](https://www.sciencedirect.com/journal/neuroimage/about/editorial-board): editorial board, 2018-2022
   * [Science Bulletin](https://www.sciencedirect.com/journal/science-bulletin): associate editor, [Medical and Life Sciences](https://mc03.manuscriptcentral.com/csb), 2015-2018 (founding editorial board) 
