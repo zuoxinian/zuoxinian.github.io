@@ -81,7 +81,7 @@ Professional Appointments
 
 * 2015.06 - 2020.04: Director
   * [Magnetic Resonance Imaging Research Center](http://mrirc.psych.ac.cn)
-  * 
+  * Institute of Psychology, Chinese Academy of Sciences
   
 * 2014.06 - 2020.04: Deputy Director
   * Key Laboratory of Behavioral Science
