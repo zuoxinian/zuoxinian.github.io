@@ -30,7 +30,7 @@ Team Leadership and Academic Services
   <!-- * [Science Bulletin](https://www.sciengine.com/SB/home): associate editor, [Life Sciences](https://mc03.manuscriptcentral.com/csb), 2023-2027) -->
   <!-- * [Chinese Science Bulletin](https://www.sciengine.com/CSB/home): associate editor, [Life Sciences](https://www.scicloudcenter.com/TB/login/index), 2023-2027) -->
   * [Scientific Data](https://www.nature.com/sdata): editorial boad, [Biological Sciences](https://www.nature.com/sdata/editorial-board#Biological-Sciences), 2022-present 
-  * [Frontiers for Young Mind](https://kids.frontiersin.org): associate editor, [Neuroscience & Psychology Speciality](https://kids.frontiersin.org/specialties/neuroscience), 2018-present
+  * [Frontiers for Young Mind](https://kids.frontiersin.org): associate editor, [Neuroscience & Psychology](https://kids.frontiersin.org/specialties/neuroscience), 2018-present
   * [Network Neuroscience](https://www.mitpressjournals.org/journals/netn/editorial): associate editor, 2017 (founding editorial board)-present
   * [Human Brain Mapping](https://onlinelibrary.wiley.com/journal/10970193): associate editor, 2020-2022; editorial board, 2023-present
   * [Neuroscience](https://www.editorialmanager.com/nsc/default.aspx): senior editor, 2018-2022; editorial board, 2023-present
