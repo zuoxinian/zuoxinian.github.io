@@ -19,12 +19,12 @@ Team Leadership and Academic Services
 
 * [Consortium for Reliability and Reproducibility](http://fcon_1000.projects.nitrc.org/indi/CoRR/html) (CoRR): Project Coordinator, Co-Founder <!-- ; [Consortium Data Descriptor](https://www.nature.com/articles/sdata201449); [Consortium Hardcore Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009279); [Human MRI Reproducibility](https://www.nature.com/collections/yglmshrkbg); [Reliablity and Reproducibility for Functional Connectomics](https://www.frontiersin.org/research-topics/5137/reliability-and-reproducibility-in-functional-connectomics) -->
  
-* Organization for Human Brain Mapping ([OHBM](https://www.humanbrainmapping.org)): Council Member
+* [Organization for Human Brain Mapping](https://www.humanbrainmapping.org) (OHBM): Council Member
   * 2018-2019, Program Chair Elect
   * 2019-2020, Program Chair 
   * 2020-2021, Past Program Chair
 
-* Brainhack Vienna 2016 - Reliability and Reproducibility in Connectomics: Co-organizer
+* [Brainhack Vienna 2016 - Reliability and Reproducibility in Connectomics](https://brainhack.org/vienna): Co-organizer
 
 * Journal Editorial Service
   <!-- * [Science Bulletin](https://www.sciengine.com/SB/home): associate editor, [Life Sciences](https://mc03.manuscriptcentral.com/csb), 2023-2027) -->
