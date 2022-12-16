@@ -111,3 +111,10 @@ The 2022-2023 course taught at Beijing Normal University.
 ======
 
 <img src="https://github.com/zuoxinian/CDPN/blob/master/courses/cc14.jpg" width="60%" alt="2022/12/07" />
+
+---
+
+[Country/Region and Culture](https://github.com/zuoxinian/CDPN/blob/master/courses/DPN15-CRC-20221214.pdf)
+======
+
+<img src="https://github.com/zuoxinian/CDPN/blob/master/courses/cc15.jpg" width="60%" alt="2022/12/014" />
