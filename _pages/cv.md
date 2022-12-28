@@ -49,7 +49,6 @@ Postdoc Trainings
 * 2006.04 - 2008.10: State Key Laboratory of Cognitive Neuroscience and Learning, Beijing Normal University; Supervisor: Yu-Feng Zang
 * 2006.04 - 2008.10: National Laboratory of Pattern Recognition, Institute of Automation, Chinese Academy of Sciences (CAS); Supervisor: Yu-Feng Zang/Tianzi Jiang (joint)
 * 2008.10 - 2010.11: Institute for Pediatric Neuroscience, Child Study Center, New York University, Supervisor: Michael P. Milham
-* 2008.10 - 2010.11: Langone Medical Center, School of Medicine, New York University, Supervisor: Michael P. Milham
 
 Professional Appointments
 ======
@@ -94,3 +93,7 @@ Professional Appointments
 * 2010.12 - 2012.06: Distinguished Research Professor
   * Division of Cognitive and Behavioral Development
   * Institute of Psychology, Chinese Academy of Sciences
+
+* 2008.10 - 2010.11: Associate Research Scientist
+  * Langone Medical Center, School of Medicine
+  * New York University, United States
