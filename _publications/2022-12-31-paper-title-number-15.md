@@ -1,5 +1,5 @@
 ---
-title: "A paradigm shift in neuroscience driven by big data: State of art, challenges, and proof of concept"
+title: "A paradigm shift in neuroscience driven by big data"
 collection: publications
 permalink: /publication/2022-12-31-paper-title-number-15
 excerpt: 'A recent editorial in Nature noted that cognitive neuroscience is at a crossroads where it is a thorny issue to reliably reveal brain-behavior associations. This commentary sketches a big data science way out for cognitive neuroscience, namely population neuroscience. In terms of design, analysis, and interpretations, population neuroscience research takes the design control to an unprecedented level, greatly expands the dimensions of the data analysis space, and paves a paradigm shift for exploring mechanisms on brain-behavior associations.'
