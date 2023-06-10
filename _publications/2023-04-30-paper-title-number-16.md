@@ -12,6 +12,6 @@ Despite the impressive advances, there is still a non-negligible gap between thi
 
 <img src='https://ars.els-cdn.com/content/image/1-s2.0-S2095927323002244-gr1.jpg' align="middle"><br/>
 
-[Download paper here](https://arxiv.org/ftp/arxiv/papers/2212/2212.04195.pdf)
+[Download paper here](https://github.com/zuoxinian/zuoxinian.github.io/blob/master/files/SCIBULL-TBC.pdf)
 
 Recommended citation: Z. X. Zhou; L. Z. Chen; M. P. Chen; X. N. Zuo; LBCC. (2023). &quot;Six cornerstones for translational brain charts. [<i>Science Bulletin</i>](https://www.sciencedirect.com/journal/science-bulletin), 68:795-799.
